@@ -1,7 +1,5 @@
 # Organizador
-Implementación de un tablero Kanban en Python y wxPython
-
-Este proyecto implementa un **Tablero Kanban** el cual:
+Implementación de un tablero **Kanban** en **Python** y **wxPython**
 
 ➔ Crea proyectos Kanban, que se pueden guardar en disco, en formato json.
 
