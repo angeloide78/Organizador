@@ -1,0 +1,14 @@
+Mejoras que hay que realizar al proyecto:
+
+- Al crear un proyecto, con un nombre y guardarlo, si ya existe ese proyecto lo sobreescribe. Se debe de alertar sobre esto, y si se quiere sobreescribir.
+
+- Se podría crear un fichero intermedio, que salvara de manera periódica el proyecto en disco, en un fichero oculto tipo ".organizador_temp.json", para evitar pérdidas. Ese fichero sería el que se cargaría por defecto, siempre.
+
+- Implementar el sistema de Ayuda.
+
+- Cuando se salga de la aplicación, se debe de guardar previamente en el fichero ".organizador_temp.json".
+
+- Se debe de poder dar la posibilidad de cambiar el nombre del proyecto.
+
+- Implementar el sistema de información adicional para cuando pasen eventos de error e información (y que no sea mediante wx.MessageBox).
+
